@@ -1,4 +1,4 @@
-# Section 5.1 RWK<sup>+</sup>: Employed to Different Architectures
+# Section 5.2 RWK<sup>+</sup>Conv: Connections with GNNs
 
 ------------
 
