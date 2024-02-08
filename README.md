@@ -6,7 +6,7 @@ Lee, M. C.\*, Zhao, L.\*, & Akoglu, L. (2024, May). Descriptive Kernel Convoluti
 
 Please cite the paper as:
 
-    @inproceedings{lee2021descriptive,
+    @inproceedings{lee2024descriptive,
       title={Descriptive Kernel Convolution Network with Improved Random Walk Kernel},
       author={Lee, Meng-Chieh and Zhao, Lingxiao and Akoglu, Leman},
       booktitle={Proceedings of the ACM Web Conference 2024},
