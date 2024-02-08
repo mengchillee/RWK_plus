@@ -4,8 +4,6 @@
 
 Lee, M. C.\*, Zhao, L.\*, & Akoglu, L. (2024, May). Descriptive Kernel Convolution Network with Improved Random Walk Kernel. *The 2024 ACM Web Conference*.
 
-https://dl.acm.org/doi/10.1145/3580305.3599413
-
 Please cite the paper as:
 
 @inproceedings{lee2021descriptive,
