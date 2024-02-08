@@ -1,0 +1,7 @@
+dataset: molhiv
+model:
+  num_layers: 2
+  pool: add
+train:
+  epochs: 100
+  lr_patience: 10

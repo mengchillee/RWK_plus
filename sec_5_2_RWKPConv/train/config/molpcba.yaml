@@ -1,0 +1,6 @@
+dataset: molpcba
+model:
+  num_layers: 6
+  pool: add
+train:
+  epochs: 100

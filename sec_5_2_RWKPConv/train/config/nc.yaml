@@ -1,0 +1,9 @@
+dataset: cora
+model:
+  gnn_type: 'RWKPConv'
+  num_layers: 2
+  pool: add
+train:
+  epochs: 200
+  lr_patience: 10
+  wd: 5e-4
